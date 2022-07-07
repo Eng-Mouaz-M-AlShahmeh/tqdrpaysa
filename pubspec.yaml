@@ -1,0 +1,17 @@
+name: tqdrpaysa
+description: TQDR is a Saudi digital platform owned by TQDR Commercial Brokerage Corporation specialized in providing a receipt payment service for all your digital purchases by linking customers to stores and applications through a network of accredited stores as service providers (TQDR) through whom you can pay and take a receipt that enables you to shop in all approved electronic stores as partners to appreciate Currently in Riyadh and soon in all regions of the Kingdom of Saudi Arabia.
+version: 1.0.1
+repository: https://github.com/Eng-Mouaz-M-AlShahmeh/tqdrpaysa
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+  flutter: ">=3.0.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
