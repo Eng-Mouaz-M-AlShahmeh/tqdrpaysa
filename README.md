@@ -4,7 +4,7 @@
 
 Flutter package for TQDRPaySa.
 
-![logo](https://user-images.githubusercontent.com/86870601/177686285-c7724dac-8053-48b5-9927-2b9c7fac2f84.png)
+<!-- ![logo](https://user-images.githubusercontent.com/86870601/177686285-c7724dac-8053-48b5-9927-2b9c7fac2f84.png) -->
 
 | ![android01](https://user-images.githubusercontent.com/86870601/177686103-2ca0a527-0883-4abc-902e-d364001a86f3.png) | ![Simulator Screen Shot - iPhone 13 mini - 2022-07-07 at 06 34 53](https://user-images.githubusercontent.com/86870601/177686158-43ea3959-243f-43ea-8c49-004e57182911.png) |
 | :------------: | :------------: |
@@ -18,8 +18,8 @@ stores as service providers (TQDR) through whom you can pay and take a receipt
 that enables you to shop in all approved electronic stores as partners to appreciate 
 Currently in Riyadh and soon in all regions of the Kingdom of Saudi Arabia.
 - Our mission is to connect people with stores and applications by providing innovative, 
-smart, easy and secure payment solutions with professionalism and love. Our vision 
-is to be the first cash payment option for digital payments in the Kingdom of Saudi Arabia.
+smart, easy and secure payment solutions with professionalism and love. 
+- Our vision is to be the first cash payment option for digital payments in the Kingdom of Saudi Arabia.
 
 ## Terms of use:
 Because of the nature of the service provided, 
