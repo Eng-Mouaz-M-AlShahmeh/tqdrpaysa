@@ -13,8 +13,8 @@ stores as service providers (TQDR) through whom you can pay and take a receipt
 that enables you to shop in all approved electronic stores as partners to appreciate 
 Currently in Riyadh and soon in all regions of the Kingdom of Saudi Arabia.
 - Our mission is to connect people with stores and applications by providing innovative, 
-smart, easy and secure payment solutions with professionalism and love. Our vision 
-is to be the first cash payment option for digital payments in the Kingdom of Saudi Arabia.
+smart, easy and secure payment solutions with professionalism and love. 
+- Our vision is to be the first cash payment option for digital payments in the Kingdom of Saudi Arabia.
 
 ## Terms of use:
 Because of the nature of the service provided, 
@@ -66,7 +66,7 @@ There are two required attributes of class **TqdrPaySa**. Attribute `apiKey` is 
 
 ## Thank you
 
-Make sure to check out [example project](https://github.com/Eng-Mouaz-M-AlShahmeh/tqdrpaysa/tree/master/example).
+Make sure to check out [example project](https://github.com/Eng-Mouaz-M-AlShahmeh/tqdrpaysa/tree/main/example).
 If you find this package useful, star my GitHub [repository](https://github.com/Eng-Mouaz-M-AlShahmeh/tqdrpaysa).
 
 Flutter plugin was developed by: [Eng Mouaz M. Al-Shahmeh](https://twitter.com/mouaz_m_shahmeh)
