@@ -4,6 +4,11 @@
 
 Flutter package for TQDRPaySa.
 
+<!-- ![logo](https://user-images.githubusercontent.com/86870601/177686285-c7724dac-8053-48b5-9927-2b9c7fac2f84.png) -->
+
+| ![android01](https://user-images.githubusercontent.com/86870601/177686103-2ca0a527-0883-4abc-902e-d364001a86f3.png) | ![Simulator Screen Shot - iPhone 13 mini - 2022-07-07 at 06 34 53](https://user-images.githubusercontent.com/86870601/177686158-43ea3959-243f-43ea-8c49-004e57182911.png) |
+| :------------: | :------------: |
+
 
 ## About:
 - TQDR is a Saudi digital platform owned by TQDR Commercial Brokerage Corporation 
